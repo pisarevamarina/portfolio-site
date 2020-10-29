@@ -1,6 +1,7 @@
 {
   "name": "portfolio-app",
-  "homepage": "https://pisarevamarina.github.io/portfolio-site",
+  "author": "Pisareva Marina",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
