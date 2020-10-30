@@ -1,0 +1,16 @@
+@import url(./__navigation/header__navigation.css);
+@import url(./__navigation-links/header__navigation-links.css);
+@import url(./__navigation-link/header__navigation-link.css);
+@import url(./__navigation-title/header__navigation-title.css);
+
+.header{
+    max-width: 1100px;
+    min-width: 300px;
+min-width: fit-content;
+    display: flex;
+    align-items: center;
+    margin: 20px auto 0;
+justify-content: space-between;
+padding-bottom: 40px;
+border-bottom: 2px solid rgba(43,43,43, 0.5);
+}

@@ -1,0 +1,6 @@
+.main__photo{
+    width: 1100px;
+    max-width: 1100px;
+    object-fit: cover;
+    max-height: 400px;
+}
